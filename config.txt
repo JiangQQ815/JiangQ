@@ -1,0 +1,13 @@
+# ===============================================================
+# ADB Device Tool Configuration
+# ===============================================================
+#
+# 【DevicePath】包含 a.xml 和 a.bat 的文件夹路径
+# 格式：DevicePath=完整路径 或 DevicePath=.\test_folder（相对路径）
+#
+DevicePath=.\test_folder
+#
+# 【Devices】已配置的设备序列号列表（多个用逗号分隔）
+# 运行后会根据实际连接的设备自动更新此配置
+#
+Devices=

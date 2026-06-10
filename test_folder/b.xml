@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <device>
+        <name>Test Device</name>
+        <id>12345</id>
+    </device>
+    <settings>
+        <option1>true</option1>
+        <option2>false</option2>
+    </settings>
+</config>
